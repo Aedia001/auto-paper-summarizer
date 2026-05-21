@@ -89,7 +89,6 @@ codex mcp login notion
 
 - 给本地文件：`/path/to/paper.pdf`
 - 给 arXiv 页面：`https://arxiv.org/abs/xxxx.xxxxx`
-- 给 PDF 链接：`https://.../paper.pdf`
 - 直接要求：帮我总结这篇论文并发到 Notion
 
 ## 仓库里的辅助文件
