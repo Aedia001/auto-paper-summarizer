@@ -1,0 +1,4 @@
+interface:
+  display_name: "Arivx Paper Summarize"
+  short_description: "Summarize a paper from a file path or URL and publish it to Notion"
+  default_prompt: "Take a paper PDF path or URL, download it if needed, read it carefully, write summary.md in the requested language, and publish the structured summary to Notion."
