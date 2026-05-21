@@ -2,6 +2,12 @@
 
 这是一个用于“读论文 + 生成中文总结 + 发布到 Notion”的 skill。
 
+## 使用方法
+```bash
+git clone https://github.com/Aedia001/auto-paper-summarizer.git
+mv ‘skill_path’ ~/.codex/skills/
+```
+
 ## 这个 skill 在干什么
 
 这个 skill 主要负责两件事：
