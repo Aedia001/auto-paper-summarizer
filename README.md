@@ -17,7 +17,7 @@ mv ‘skill_path’ ~/.codex/skills/
 
 它适合以下输入场景：
 
-- 直接给一个本地 PDF 路径，例如 `paper.pdf`, 给一个 arXiv 链接
+- 直接给一个本地 PDF 路径，例如 `paper.pdf` 给一个 arXiv 链接
 - “把这篇论文总结一下，并同步到 Notion”
 
 ## 它会怎么工作
