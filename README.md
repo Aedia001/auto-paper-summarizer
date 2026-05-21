@@ -1,6 +1,6 @@
 # auto-paper-summarizer
 
-这是一个用于“读论文 + 生成中文总结 + 发布到 Notion”的 Codex skill。
+这是一个用于“读论文 + 生成中文总结 + 发布到 Notion”的 skill。
 
 ## 这个 skill 在干什么
 
